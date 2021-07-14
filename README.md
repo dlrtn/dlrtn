@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @dlrtn
-- 👀 I’m interested in backend
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+매일매일을 발전하면서 보내고 싶은 개발자 주익수라고 합니다!
 
-<!---
-dlrtn/dlrtn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+관심분야 : backend <spring>
+  
