@@ -1,4 +1,4 @@
-매일매일을 발전하면서 보내고 싶은 개발자 주익수라고 합니다!
+elasticsearch는 세상 좆같다
 
 관심분야 : backend <spring>
   
