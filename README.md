@@ -5,6 +5,6 @@
  </div>
  <div align=center>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlrtn&hide=jupyter notebook&layout=compact)](https://github.com/dlrtn/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlrtn&exclude_repo=jnu-itsoc-lab-project)](https://github.com/dlrtn/github-readme-stats)
 	
  </div>
